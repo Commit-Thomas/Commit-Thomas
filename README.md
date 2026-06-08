@@ -1,5 +1,4 @@
 # Hi, I'm Thomas 👋
-<img width="332" height="362" alt="Screenshot 2026-06-08 at 4 00 53 PM" src="https://github.com/user-attachments/assets/83d7bd32-7f8c-4560-852e-8630dae3dcf4" />
 
 📊 Data Analyst focused on transforming complex datasets into actionable insights through analytics, visualization, and storytelling.
 
